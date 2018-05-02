@@ -10,14 +10,17 @@ body {
 
 h1 {
   background-color: #f0fff0;
+  font-family: Cambria, Cochin, Georgia, Times;
 }
 
 h2 {
   background-color: #f0fff0;
+  font-family: Cambria, Cochin, Georgia, Times;
 }
 
 h3 {
   background-color: #f0fff0;
+  font-family: Cambria, Cochin, Georgia, Times;
 }
 
 @media (min-width: 992px) {

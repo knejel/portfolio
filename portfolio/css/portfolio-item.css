@@ -6,7 +6,17 @@
 
 body {
   padding-top: 54px;
-  color: #000000;
+}
+
+h1 {
+  background-color: #f0fff0;
+}
+
+h2 {
+  background-color: #f0fff0;
+}
+
+h3 {
   background-color: #f0fff0;
 }
 

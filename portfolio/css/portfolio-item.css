@@ -6,6 +6,8 @@
 
 body {
   padding-top: 54px;
+  color: black;
+  background-color: honeydew;
 }
 
 @media (min-width: 992px) {
